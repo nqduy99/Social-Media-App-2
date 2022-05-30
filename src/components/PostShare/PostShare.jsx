@@ -62,8 +62,6 @@ const PostShare = () => {
         </div>
 
       )}
-
-
       </div>
     </div>
   );
